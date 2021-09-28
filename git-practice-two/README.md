@@ -1,0 +1,1 @@
+6 Open up the repo inside your text editor then type some text into the README and save the file
